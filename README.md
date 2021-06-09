@@ -1,1 +1,1 @@
-# Video_Transmit_opencv_and_socket
+Create a video chatting app using socket. Use opencv python library. 
